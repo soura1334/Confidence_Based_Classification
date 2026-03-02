@@ -92,7 +92,8 @@ This means:
 
 # Installation
 1. Create Virtual Environment (Windows)
-``` python -m venv venv
+```
+python -m venv venv
 venv\Scripts\activate
 ```
 2. Install Dependencies
