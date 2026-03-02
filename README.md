@@ -116,8 +116,8 @@ confidence-based-classification/
 
 # References
 
-UCI Machine Learning Repository – Student Performance Dataset
+- UCI Machine Learning Repository – Student Performance Dataset
 
-El-Yaniv, R. (2010). On the Foundations of Selective Classification
+- El-Yaniv, R. (2010). On the Foundations of Selective Classification
 
-Scikit-learn Documentation
+- Scikit-learn Documentation
